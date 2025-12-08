@@ -1,0 +1,8 @@
+{
+  "1.0.1": [
+    "Move all framework functions to public/framework to allow you to upgrade"
+  ],
+  "1.0.0": [
+    "First release"
+  ]
+}
