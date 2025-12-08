@@ -1,0 +1,5 @@
+INSERT INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `groupId`, `desc`, `weight`) VALUES ('duckegg', 'Duck Egg', -1, 1, 'item_standard', 1, 8, '', 0.01);
+INSERT INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `groupId`, `desc`, `weight`) VALUES ('gatoregg', 'Gator Egg', -1, 1, 'item_standard', 1, 8, '', 0.01);
+INSERT INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `groupId`, `desc`, `weight`) VALUES ('gooseegg', 'Goose Egg', -1, 1, 'item_standard', 1, 8, '', 0.01);
+INSERT INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `groupId`, `desc`, `weight`) VALUES ('loonegg', 'Loon Egg', -1, 1, 'item_standard', 1, 8, '', 0.01);
+INSERT INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `groupId`, `desc`, `weight`) VALUES ('vultureegg', 'Vulture Egg', -1, 1, 'item_standard', 1, 8, '', 0.01);
