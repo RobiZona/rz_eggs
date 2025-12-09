@@ -1,4 +1,7 @@
 {
+  "1.0.2": [
+    "Fix Dataview error"
+  ],
   "1.0.1": [
     "Move all framework functions to public/framework to allow you to upgrade"
   ],
