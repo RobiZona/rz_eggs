@@ -1,4 +1,11 @@
 {
+  "1.0.9": [
+    "This free release migrates update checks to RobiZona/rz-releases (product: rz_eggs_free). Future updates stay on the free product channel.",
+    "Validate collection on the server and prevent duplicate rewards.",
+    "Handle successful egg collection through the loot completion event.",
+    "Fix object and blip cleanup during synchronization, loading and player movement.",
+    "Back up and update the complete resource; merge public/ customizations instead of updating only public/."
+  ],
   "1.0.8": [
     "Fix minor bug"
   ],
